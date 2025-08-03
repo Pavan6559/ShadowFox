@@ -1,4 +1,4 @@
-# 🌐 Ponnaganti Gayathri | Developer Portfolio
+# 🌐 Pavan Prakash Lella | Developer Portfolio
 
 Welcome to my personal portfolio website built with **HTML**, **CSS**, and **JavaScript**. This is a showcase of my projects, skills, and journey as a Full Stack Developer and AI/ML Enthusiast.
 
